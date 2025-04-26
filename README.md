@@ -15,7 +15,7 @@ This script will **inject the Trebolona** into your system, optimizing it for pe
 ## How to Use
 
 1. **Download the script**:
-    - Go to the [Releases](https://github.com/your-repo/trebolona/releases) page.
+    - Go to the [Releases](https://github.com/Ozk4k/SudoHypertrophy/releases) page.
     - Download the latest release of `SudoHyperTrophy.sh`.
 
 2. **Navigate to the directory** where the script is located.
