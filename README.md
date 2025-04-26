@@ -1,5 +1,6 @@
 # Trebolona Injection Script 🚀
 -----This is my first GitHub project, so don’t expect perfection 😅-----
+Only works on Debian/Ubunto based distros 
 ## Description
 
 This script will **inject the Trebolona** into your system, optimizing it for performance and entertainment. We’re talking **gaming tweaks, NVIDIA drivers**, **Flatpak apps**, and of course, **background music to keep Tux pumped up** while running the show.
